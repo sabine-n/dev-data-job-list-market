@@ -1,8 +1,28 @@
-Offre ,Lien,Entreprises,Compétences
-"Offre de Stage Data Scientist, IOT for supply chain",Indeed link,TRAXENS,Python
-STAGE DATA SCIENTIST,lien site entreprise,BOURBON,Python
-Ingénieur Projet Data F/H,Lien APEC,GROUPE KEDGE BUSINESS SCHOOL,Python
-Data Manager / Data Analyst (H/F),Indeed link,"DIGITICK
-",Python
+Compétences,Compétences Clés
+Python,Concevoir et structurer une base de données
+"Scikit-learn
+","Acquérir des données
 "
-",,,
+Scala,Combiner et structurer les donnée en données propres
+Spark,Intégrer des données propresen base de données
+Base de données Cassandra,Optimiser une base de données
+NoSQL ,Nettoyer une base de données
+Postgresql,Interroger une base de données
+Architecture Cloud ,Concevoir et réaliser un rendu visuel des données
+Amazon Web services,Mettre à disposition les rendus visuels et physiques des données
+English (advanced),Analyser et formaliser la demande
+French ,Autocontrôler le projet
+Data cleaning,Suivre la réalisation du projet
+Mise en place des alimentations de données,Rechercher des solutions techniques
+Dashboard creation,
+création de nouveaux KPI,
+Manipulation des données,
+"Librairies Statistiques : Pandas, Numpy",
+Bases de données NoSQL (Cassandra…),
+Moteur de recherche (Elastic Search...),
+"Outils de déploiement (Docker , Ansible )",
+Programmation fonctionnelle (SCALA),
+Bases de données NoSQL (Cassandra),
+"Outils de déploiement (Docker, Ansible, Kubernetes, … )",
+Programmation fonctionnelle (SCALA),
+Google Cloud Plateform,
